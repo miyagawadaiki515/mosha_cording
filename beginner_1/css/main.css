@@ -1,0 +1,21 @@
+/* コンテンツ最大幅 */
+:root {
+  --width-content: 1080px;
+}
+
+/* カラー */
+:root {
+  --color-bg-primary: #504333;
+  --color-bg-primary-light: #f7f4f0;
+  --color-bg-white: #fff;
+  --color-border-white: #fff;
+  --color-font-primary: #504333;
+  --color-font-black: #333;
+  --color-font-white: #fff;
+  --color-font-base: #5d5d5d;
+}
+
+:root {
+  --font-family-japanese: "Noto Sans JP", sans-serif;
+  --font-family-english: "Montserrat", sans-serif;
+}
